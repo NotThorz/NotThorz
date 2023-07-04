@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @NotThorz , Computer science engineer .
+- 👋 Hi, I’m @NotThorz  .
 - 👀 I’m interested in Web Developement / Software Developement / Data Science / Automation scripts .
 - 💞️ I’m looking to collaborate on any projects that can be useful to the community .
 
