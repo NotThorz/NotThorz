@@ -1,7 +1,13 @@
-### Hi there, I'm Med Reda Fidani 👋
+👋 Hey, I'm the kind of dev who builds more than I show — most of it lives in private repos.
 
-I'm a passionate software engineer with a strong interest in algorithms, software solutions, and web development.
-#### 📚 Learning Never Stops
+🛠️ You might’ve seen my name pop up in the Django project — or maybe in projects I’ve built *quietly* for clients on Upwork.
+
+🧩 Got a weird problem? An unsolved puzzle? A strange algorithm idea?
+
+📬 Hit me up.  
+If it’s interesting enough, I’ll build it — **for free**.  
+Why? Because I like *interesting* more than *profitable*.
+
 
 
 <!---
